@@ -1,0 +1,12 @@
+body{
+    background-color: cadetblue;
+    color: azure;
+    font-family: Verdana, "Trebuchet MS", sans-serif;
+}
+a{
+    color: navajowhite;
+    font-size: larger;
+}
+ p,ul, ol{
+    font-size: larger;
+}
