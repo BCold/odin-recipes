@@ -1,3 +1,14 @@
+h1{
+    font-size: 56px;
+    width: 100%;
+    margin: 0px auto;
+    padding-bottom: 10px;
+    background-color: paleturquoise;
+    color: azure;
+    border: 1px solid black;
+    text-shadow: 2px 2px 4px black;
+    text-align: center;
+}
 body{
     background-color: cadetblue;
     color: azure;
@@ -6,7 +17,24 @@ body{
 a{
     color: navajowhite;
     font-size: larger;
+;
 }
  p,ul, ol{
-    font-size: larger;
+    font-size: 24px;
+}
+#recipe-bar{
+    width: 60%;
+    margin: 25px auto;
+    padding: 5px;
+    list-style: none;
+    text-align: center;
+}
+.recipe{
+    margin: 10px 0px ;
+    text-decoration: none;
+    text-shadow: 1px 1px 3px black;
+}
+.recipe:hover{
+    font-weight: bolder;
+    font-size: 32px;
 }
